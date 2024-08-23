@@ -23,19 +23,6 @@ IMS Student in Zürich!
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
----
-
-<!-- markdownlint-disable MD033 -->
-
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=krausm-bzz)
-
-</details>
-
-
-<!-- markdownlint-enable MD033 -->
 
 [Email: matthias@student.ksh.ch
 
