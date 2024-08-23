@@ -5,6 +5,7 @@ IMS Student in Zürich!
 - :muscle: Currently Student in Zurich.
 - 🎵: Music enthusiast.
 - 💻: Technologies listed below
+- 🧠: Knowledge in Frontend, Backend, SQL.
 
 ## :headphones: Spotify Playing
 
