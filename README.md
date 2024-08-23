@@ -3,13 +3,10 @@
 IMS Student in Zürich!
 
 - :muscle: Currently Student in Zurich.
-- 🎵: Music enthusiast.
 - 💻: Technologies listed below
-- 🧠: Knowledge in Frontend, Backend, SQL.
+- 🧠: Knowledge in Frontend, Backend, SQL etc.
 
-## :headphones: Spotify Playing
 
-[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=Mattgaze)](https://www.last.fm/user/Mattgaze)
 
 ## :wrench: Technologies
 
@@ -24,6 +21,10 @@ IMS Student in Zürich!
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
+
+## :headphones: Spotify Playing
+
+[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=Mattgaze)](https://www.last.fm/user/Mattgaze)
 
 [Email: matthias@student.ksh.ch
 
