@@ -1,4 +1,4 @@
-# Matthias Kraus (:coffee::computer::bulb::heart:)
+# Matthias Kraus ☕🧑‍🎓
 
 IMS Student in Zürich!
 
